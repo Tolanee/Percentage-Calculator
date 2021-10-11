@@ -1,0 +1,39 @@
+
+
+#container{
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  
+}
+main{
+  background-color: burlywood;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 20px 20px 0 rgb(170, 166, 166);
+}
+main div{
+  margin: 50px 0 70px 0;
+
+}
+
+ #amount{
+  width: 60%;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  padding: 0 10px;
+}
+
+#range{
+  width: 60%;
+}
+
+#per{
+  font-size: 20px;
+}
+
+#num{
+  font-size: 30px;
+}
