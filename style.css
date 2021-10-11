@@ -37,19 +37,11 @@ main div{
 #num{
   font-size: 30px;
 }
-@media screen  and( max-width: 768px){
+
+@media only screen and (max-width: 600px) {
   #container{
-    width: 50%;
+    width: 80%;
   }
 
-  #amount{
-    width: 50%;
-    height: 20px;
-   
-  }
-  
-  #range{
-    width: 50%;
-  }
   
 }
